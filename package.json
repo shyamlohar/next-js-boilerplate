@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "pre-commit": "lint-staged",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "cz"
   },
   "dependencies": {
     "next": "11.1.0",
